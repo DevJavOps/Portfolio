@@ -4,7 +4,7 @@ Welcome to my DevSecOps Portfolio! This repository showcases a curated collectio
 
 ## Table of Contents
 
-1. [CI/CD Pipeline with Jenkins](https://github.com/davraops/ci-cd-with-jenkins)
+1. [CI/CD Pipeline with Jenkins](https://github.com/DevJavOps/ci-cd-with-jenkins.git)
 2. [Infrastructure as Code (IaC) with Terraform](https://github.com/davraops/terraform-iac)
 3. [Configuration Management with Ansible](https://github.com/davraops/ansible-config)
 4. [Kubernetes Deployment](https://github.com/davraops/k8s-microservices-deployment)
